@@ -14,12 +14,12 @@ import pandas as pd
 
 # 瀏覽器顯示的名字和佈局
 st.set_page_config(
-    page_title="歷年高山族戶口",
+    page_title="歷年原住民戶口",
     layout="wide"
 )
 
 # 主頁標題（title）
-st.title("歷年高山族戶口（1906-1942）")
+st.title("歷年原住民戶口（1906-1942）")
 
 # 解釋（markdown）
 st.markdown(
