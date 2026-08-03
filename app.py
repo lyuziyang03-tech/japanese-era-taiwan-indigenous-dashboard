@@ -496,7 +496,7 @@ elif analysis_type == "歷年趨勢分析":
 
     with col3:
         st.metric(
-            "高山族總人口增長率",
+            "原住民總人口增長率",
             f"{total_growth:.1f}%"
         )
 
